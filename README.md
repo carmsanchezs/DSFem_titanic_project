@@ -7,3 +7,6 @@ Data Science Fem - Tercer reto: Titanic
 `Link del reto en Kaggle` : <https://www.kaggle.com/c/titanic/data>
 
 `Link del nuestra solución` : [solucion](Reto_3_Titanic.ipynb)
+
+`Link de una solución alternativa (un poco más corta)` : [solucion](titanic_short_solution.ipynb)
+
