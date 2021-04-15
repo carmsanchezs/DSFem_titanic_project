@@ -1,5 +1,7 @@
 # DSFem_titanic_project
-Data Science Fem - Tercer reto: Titanic
+## Data Science Fem - Tercer reto: Titanic
+
+![Reto](reto3.jpg)
 
 ## ¿En qué consiste?
 ¿Cuál es la tasa de supervivencia por género, clase y embarque? Acompaña tus respuestas con un gráfico.
